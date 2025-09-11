@@ -21,7 +21,6 @@ definitive objectives to meet the larger strategic goal. Do not believe in coach
 to achieve realistic goals. Proud of my Indian roots which help me shape who I am personally and professionally. 
 Living in the netherlands with my wife and 2 children for 10 years now.
 
-
 # Skills
 
 - Practicing people leadership
@@ -43,6 +42,24 @@ Living in the netherlands with my wife and 2 children for 10 years now.
 - Dutch - daily speaker (I can talk about grocery prices, weather and football ;) ).
 - Bengali - native
 - Hindi fluent
+
+ ## Technologies worked with 
+
+- JDK 17, Spring boot, security, Data (JPA/Repository), REST, transaction, Javax validation.
+- Kotlin
+- Docker and Kubernetes
+- Google cloud (GKE) 
+- AWS EC2 /Azure (boards, pipelines)
+- JIRA, Git, Jenkins
+- UML Modelling
+- SQL and No-Sql techs
+  
+## Education
+
+Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, Institution: Sikkim Manipal Institute of Technology (SMIT).  
+AISSCE (Class XII) from Assembly of God Church. Passing date – March 2000.  
+AISSE. (Class X) from Assembly of God Church. Passing date – March1998.
+
 
 # Experiences
 
@@ -157,23 +174,6 @@ Lead the end-to-end architecture, design and development of the application.
 - Togol - a travel and leisure search engine. I was involved as a technical consulting engineer to tune and review various aspects of 
 the application like performance and design.
 
-
-## Technologies worked with 
-
-- JDK 17, Spring boot, security, Data (JPA/Repository), REST, transaction, Javax validation.
-- Kotlin
-- Docker and Kubernetes
-- Google cloud (GKE) 
-- AWS EC2 /Azure (boards, pipelines)
-- JIRA, Git, Jenkins
-- UML Modelling
-- SQL and No-Sql techs
-  
-## Education
-
-Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, Institution: Sikkim Manipal Institute of Technology (SMIT).  
-AISSCE (Class XII) from Assembly of God Church. Passing date – March 2000.  
-AISSE. (Class X) from Assembly of God Church. Passing date – March1998.
 
 # Certifications
 
