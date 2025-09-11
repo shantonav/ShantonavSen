@@ -43,7 +43,7 @@ Living in the netherlands with my wife and 2 children for 10 years now.
 - Bengali - native
 - Hindi fluent
 
- ## Technologies worked with 
+## Technologies worked with 
 
 - JDK 17, Spring boot, security, Data (JPA/Repository), REST, transaction, Javax validation.
 - Kotlin
@@ -59,7 +59,6 @@ Living in the netherlands with my wife and 2 children for 10 years now.
 Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, Institution: Sikkim Manipal Institute of Technology (SMIT).  
 AISSCE (Class XII) from Assembly of God Church. Passing date – March 2000.  
 AISSE. (Class X) from Assembly of God Church. Passing date – March1998.
-
 
 # Experiences
 
