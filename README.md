@@ -7,11 +7,19 @@ Voorburg
 
 # Profile
 
-Solution architect and an ardent agile practitioner with 17 years of industry experience in developing 
+Solution architect and an ardent agile practitioner with around 20 years of industry experience in developing 
 enterprise solutions for domains like retail and hospitality, banking, cards and payments, telecom and healthcare.   
-Always challenging myself to think simple in terms of the customer. A people person, rallying them towards short term (and in short iterations)
-definitive objectives to meet the larger strategic goal. Do not believe in coaching developers to be better, but how to work within a team
+Always challenging myself to think simple in terms of the customer. 
+
+Think of me as a 'dot' at the center of a traingle whose 3 vertices are :
+- customer focus
+- tech solution/delivery
+- people
+
+A people person, rallying them towards short term (and in short iterations)
+definitive objectives to meet the larger strategic goal. Do not believe in coaching developers to be better (they are smart enough to know that), but how to work within a team
 to achieve realistic goals. Proud of my Indian roots which help me shape who I am personally and professionally. 
+Living in the netherlands with my wife and 2 children for 10 years now.
 
 
 # Skills
@@ -30,18 +38,11 @@ to achieve realistic goals. Proud of my Indian roots which help me shape who I a
 - Building competencies and nurturing talent through trainings and mentoring
 - Spearheading technical capabilities
 
-# Certifications
-
-Kubernetes Certified Administrator (CKA) - WIP  
-[How Google does machine learning](https://www.coursera.org/account/accomplishments/verify/FG3P7Z3QALC5) (2019)  
-[Launching into machine learning](https://www.coursera.org/account/accomplishments/verify/A859VUL63JQG) (2019)  
-Certified Scrum Master – 2013 from Scrum alliance: Certificant ID: 295513, re-certified - 2017 from [scrum.org](https://www.scrum.org/user/220776)  
-SUN Certified Java Programmer  
-SUN Certified Web Component Developer 5.0  
-Brain bench – Certifications – Transcript Id # 9584398  
-Completed the A1 level of French language certification from the Alliance Francaise Paris.  
-Completed A0 Dutch from www.abcdutch.com  
-Dutch _'Inburguring'_
+# Languages
+- English professional proficiency
+- Dutch - daily speaker (I can talk about grocery prices, weather and football ;) ).
+- Bengali - native
+- Hindi fluent
 
 # Experiences
 
@@ -156,25 +157,33 @@ Lead the end-to-end architecture, design and development of the application.
 - Togol - a travel and leisure search engine. I was involved as a technical consulting engineer to tune and review various aspects of 
 the application like performance and design.
 
-## Education
-
-Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, Aggregate percentage :- 78.82%  Institution: Sikkim Manipal Institute of Technology (SMIT).  
-AISSCE (Class XII) from Assembly of God Church with 88.67 % aggregate. Passing date – March 2000.  
-AISSE. (Class X) from Assembly of God Church with 76.67 % aggregate. Passing date – March1998.
-
 
 ## Technologies worked with 
 
-- Spring boot, security, Data (JPA/Repository), REST, transaction, Javax validation.
+- JDK 17, Spring boot, security, Data (JPA/Repository), REST, transaction, Javax validation.
+- Kotlin
 - Docker and Kubernetes
 - Google cloud (GKE) 
-- AWS EC2
-- Java,J2EE(JSP & JavaScript/Servlet/EJB 2.1,3.0/MDB, Design Patterns), JAX-RS 
+- AWS EC2 /Azure (boards, pipelines)
 - JIRA, Git, Jenkins
-- UML Modelling: Rational Rose, RUP, Business Integration. 
-- Clearcase SCM
-- Struts 1.1, JSF, Flex & AS 
-- JBoss Netty
-- IBM Websphere tools : WSAD, WID, WPS,RAD
-• JBoss 4.2.1/6.1.0/AS 7.0, Tomcat, GlassFish, Sun App Server, Weblogic App Server 12C 
-- Oracle 9i, Oracle 10g, Postgresql  
+- UML Modelling
+- SQL and No-Sql techs
+  
+## Education
+
+Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, Institution: Sikkim Manipal Institute of Technology (SMIT).  
+AISSCE (Class XII) from Assembly of God Church. Passing date – March 2000.  
+AISSE. (Class X) from Assembly of God Church. Passing date – March1998.
+
+# Certifications
+
+Kubernetes Certified Administrator (CKA) - WIP  
+[How Google does machine learning](https://www.coursera.org/account/accomplishments/verify/FG3P7Z3QALC5) (2019)  
+[Launching into machine learning](https://www.coursera.org/account/accomplishments/verify/A859VUL63JQG) (2019)  
+Certified Scrum Master – 2013 from Scrum alliance: Certificant ID: 295513, re-certified - 2017 from [scrum.org](https://www.scrum.org/user/220776)  
+SUN Certified Java Programmer  
+SUN Certified Web Component Developer 5.0  
+Brain bench – Certifications – Transcript Id # 9584398  
+Completed the A1 level of French language certification from the Alliance Francaise Paris.  
+Completed A0 Dutch from www.abcdutch.com  
+Dutch _'Inburguring'_
