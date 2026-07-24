@@ -7,35 +7,39 @@ Voorburg
 
 # Profile
 
-Solution architect and an ardent agile practitioner with around 20 years of industry experience in developing 
-enterprise solutions for domains like retail and hospitality, banking, cards and payments, telecom and healthcare.   
-Always challenging myself to think simple in terms of the customer. 
+Enterprise Solution Architect with 20 years of experience designing and delivering cloud-native platforms for banking, payments, retail, telecom and healthcare organizations.
 
-Think of me as a 'dot' at the center of a traingle whose 3 vertices are :
-- customer focus
-- tech solution/delivery
-- people
+Experienced in partnering with customers, business stakeholders and engineering teams to translate business strategy into scalable technical solutions. Proven track record leading architecture workshops, defining target-state architectures, modernizing legacy platforms and driving cloud adoption using Google Cloud, Kubernetes and microservices.
 
-A people person, rallying them towards short term (and in short iterations)
-definitive objectives to meet the larger strategic goal. Do not believe in coaching developers to be better (they are smart enough to know that), but how to work within a team
-to achieve realistic goals. Proud of my Indian roots which help me shape who I am personally and professionally. 
-Living in the netherlands with my wife and 2 children for 10 years now.
+Passionate about solving complex business problems through simple architectures while building trusted relationships with customers, partners and delivery teams.
+
+Core strengths include:
+
+* Customer Solution Architecture
+* Cloud Transformation
+* Enterprise Architecture
+* API & Integration Strategy
+* Kubernetes & Microservices
+* Executive Architecture Workshops
+* Digital Modernization
+* Agile Leadership
 
 # Skills
 
-- Practicing people leadership
-- Accelerating progress
-- Agile and OOP practitioner
-- Providing solution architecture and design
-- Speeding development lifecycle using stubs 
-- Building integration testing strategies 
-- Providing and designing innovative ideas for process improvements
-- Software configuration management, build configuration and continuous integration
-- Application profiling, analysing pain points and providing improvement solutions
-- Integrating automated unit test coverage tool 
-- Agile estimation
-- Building competencies and nurturing talent through trainings and mentoring
-- Spearheading technical capabilities
+* Cloud Native Architecture
+* Partner & Customer Engagement
+* Technical Discovery Workshops
+* Executive Stakeholder Management
+* Solution Design
+* API Strategy
+* Kubernetes
+* Microservices
+* Digital Transformation
+* Event Driven Architecture
+* Technical Leadership
+* Agile Delivery
+* Payments & Banking
+* Enterprise Integration
 
 # Languages
 - English professional proficiency
@@ -45,48 +49,33 @@ Living in the netherlands with my wife and 2 children for 10 years now.
 
 ## Technologies worked with 
 
-- JDK 17, Spring boot, security, Data (JPA/Repository), REST, transaction, Javax validation.
-- Kotlin
-- Docker and Kubernetes
-- Google cloud (GKE) 
-- AWS EC2 /Azure (boards, pipelines)
-- JIRA, Git, Jenkins
-- UML Modelling
-- SQL and No-Sql techs
+* Cloud Architecture
+* Kubernetes
+* Docker
+* Spring Boot
+* Java
+* Kotlin
+* Jenkins
+* Git
+* REST APIs
+* SQL / NoSQL
   
 ## Education
 
 Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, Institution: Sikkim Manipal Institute of Technology (SMIT).  
-AISSCE (Class XII) from Assembly of God Church. Passing date – March 2000.  
-AISSE. (Class X) from Assembly of God Church. Passing date – March1998.
+
 
 # Experiences
 
 ## Principal Architect at Ximedes: from July 2021
 
-Architecting and solution of self leasing platform.
-
-- Transformational lead engineer
-- Creating high-level technical designs
-- Define tech landscape tailored to business
-- Across organisation leadership
-- Part product owner
-- IT risk accessment
-- Helping squad accelerate
-- Microservice architecture
-- Re-usable process modeling using proprietary framework 
-- Custom Spring boot 3 framework + JDK 17
-  
-Architecting and solution of intuitive merchant self on-boarding solution.
-
-- Solution architect
-- People leader
-- Pivot for the customer and team
-- Decoupled architecture
-- kotlin + Spring boot
-- Angular (MFE)
-- Camunda BPM
-- Docker
+* Partner with customers and business stakeholders to define digital transformation strategies and target architectures.
+* Lead technical discovery workshops translating business requirements into scalable cloud-native solutions.
+* Architect self-service leasing and merchant onboarding platforms using microservices, Spring Boot, Kotlin and Kubernetes.
+* Drive enterprise architecture decisions balancing scalability, maintainability and business value.
+* Guide engineering teams through implementation while ensuring architectural alignment.
+* Mentor architects and engineers across multiple delivery teams.
+* Act as the primary technical advisor for customers during solution design and delivery.
 
 ## Lead engineer at BillingHouse , Den Haag : from July 2019  to June 2021
 
@@ -94,49 +83,31 @@ We build billing systems based on open source Jbilling (grails based app) platfo
 any domain: EV charging , utility, logistics  tc.  We build Java Apps ( micro-services) with Postgresql and RabbitMQ which are packaged in shippable 
 docker containers and using helm configurations we orchestrate the deployment of these containers in kubernetes on GCP.
 
-- Tech leadership / customer liaison
-- Complete ownership of project a.k.a start-up
-- Refinement of customer requirements
-- solution architecture & design
-- SCRUM ( chief problem solver)
-- greenhouse project 
-- reusable and modular coding
-- from code to prod (Multiple prod deployments a day)  
-- Jenkins CI/CD
+* Served as technical lead and trusted advisor for enterprise customers adopting SaaS billing platforms.
+* Led customer requirement workshops and solution architecture sessions.
+* Designed cloud-native microservice solutions deployed on Google Cloud Platform using GKE and Kubernetes.
+* Defined reusable architecture patterns reducing delivery effort across projects.
+* Worked closely with business stakeholders to ensure technical solutions aligned with strategic goals.
+  
 
 ## LEAD ENGINEER, INGENICO E-PAYMENTS, HOOFDDORP, THE NETHERLANDS — MARCH 2016- June 2019
 
 Building global full Payment Service Platform (PSP) and associated customer facing services.
 
-- Lead developer and solution architect for our front end edge services to which merchants interface directly 
-contributing both in terms of architectural and design decisions along with development
-- Building testing patterns for APIs in Spring boot and standalone.
-- Refining stories from business to solution
-- Mentoring team, as in helping with knowledge gaps and technical solutions.
-- Optimising SCRUM ceremonies for efficient time boxing and utilisation of development capacity.
-- Paving way for CI using proper GIt branching strategy. 
-- Automating DEV/TEST environment using Jenkins and AWS EC2 enabling high performing agile team.
-- Java chapter lead of the organisation, proposed ideas to foster an innovation driven culture and accepted by R&D department.
-- Successfully set-up a distributed scrum team with Agile practices to deliver a key business value for our merchants in terms of their credit risk scoring.
-- Rolled out re-factored integration between our platform and PayPal as many functionalities were missing in the current integration and merchants 
-were waiting for new features of PayPal.
-- Helped solve major performance bottle neck of the platform for a very large merchant.
-- Improved the quality of the code through proper coaching and correct usability of OOP practices.
-- Challenged a lot of status quo to bring in desired changes in terms of agile practices like proper utilisation of JIRA, kind of details to put in types of ticket. 
+* Led architecture and development of customer-facing payment services used by global merchants.
+* Collaborated with product managers and business stakeholders to define scalable payment platform capabilities.
+* Designed REST APIs and microservices supporting high-volume payment processing.
+* Established CI/CD practices improving deployment frequency and engineering productivity.
+* Led cross-functional engineering teams across distributed locations.
 
 ## SR JAVA ENGINEER, CLEARSTREAM BANKING, LUXEMBOURG — MAY 2015-FEB 2016
 
-The project is about consolidation of post trade settlement services as a result of TARGET2 Securities implementation by ECB. 
+The project is about consolidation of post trade settlement services as a result of TARGET2 Securities implementation by ECB.
 
-- Wrote the solution to customer's RFP along with couple of other architects
-- Key inputs to the architecture document
-- Designing key application components
-- Back-end business flow de-mystification
-- Writing SQLs and data base analysis (based on SWIFT model )
-- Coding in Java using the proprietary framework
-- Discussing with functional analysts and customer team to clarify things functionally and technically.
-- Responsible for technical delivery of the application
-- Co-ordinating with my offshore team to remove their hurdles.
+* Contributed to enterprise architecture for TARGET2 Securities migration.
+* Participated in customer RFP responses and technical solution proposals.
+* Designed core settlement services supporting large-scale financial transactions.
+* Worked directly with customer architects and business analysts to refine requirements.
 
 ##  SR JAVA ENGINEER, COGNIZANT TECH SOLUTIONS, INDIA — 2010-2016
 
