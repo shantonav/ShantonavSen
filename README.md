@@ -47,6 +47,7 @@ Core strengths include:
 
 ## Technologies worked with 
 
+* Microsoft Azure
 * Cloud Architecture
 * Kubernetes
 * Docker
