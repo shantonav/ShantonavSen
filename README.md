@@ -44,8 +44,6 @@ Core strengths include:
 # Languages
 - English professional proficiency
 - Dutch - daily speaker (I can talk about grocery prices, weather and football ;) ).
-- Bengali - native
-- Hindi fluent
 
 ## Technologies worked with 
 
