@@ -68,9 +68,12 @@ Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, In
 
 ## Principal Architect at Ximedes: from July 2021
 
-* Partner with customers and business stakeholders to define digital transformation strategies and target architectures.
 * Lead technical discovery workshops translating business requirements into scalable cloud-native solutions.
-* Architect self-service leasing and merchant onboarding platforms using microservices, Spring Boot, Kotlin and Kubernetes.
+* Designed the target architecture for a cloud-native self-service leasing platform, enabling the business to digitize the customer journey and accelerate future feature delivery through a microservices-based architecture.
+* Designed an enterprise merchant self-onboarding platform that simplified customer onboarding while reducing manual operational effort through workflow automation and reusable services.
+* Improved engineering delivery velocity by introducing reusable architecture patterns and technical guidance, enabling teams to deliver features more consistently.
+* Led executive architecture workshops with banking stakeholders to define a target cloud-native architecture for a next-generation digital bank, aligning technology strategy with long-term business transformation goals.
+* Partnered with product owners and business stakeholders to translate strategic business goals into scalable technical roadmaps.
 * Drive enterprise architecture decisions balancing scalability, maintainability and business value.
 * Guide engineering teams through implementation while ensuring architectural alignment.
 * Mentor architects and engineers across multiple delivery teams.
@@ -79,8 +82,7 @@ Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, In
 ## Lead engineer at BillingHouse , Den Haag : from July 2019  to June 2021
 
 We build billing systems based on open source Jbilling (grails based app) platform and provide the solution as SaaS for
-any domain: EV charging , utility, logistics  tc.  We build Java Apps ( micro-services) with Postgresql and RabbitMQ which are packaged in shippable 
-docker containers and using helm configurations we orchestrate the deployment of these containers in kubernetes on GCP.
+any domain: EV charging , utility, logistics  tc.  We build Java Apps ( micro-services) with Postgresql and RabbitMQ which are packaged in shippable docker containers and using helm configurations we orchestrate the deployment of these containers in kubernetes on GCP.
 
 * Served as technical lead and trusted advisor for enterprise customers adopting SaaS billing platforms.
 * Led customer requirement workshops and solution architecture sessions.
@@ -91,7 +93,7 @@ docker containers and using helm configurations we orchestrate the deployment of
 
 ## LEAD ENGINEER, INGENICO E-PAYMENTS, HOOFDDORP, THE NETHERLANDS — MARCH 2016- June 2019
 
-Building global full Payment Service Platform (PSP) and associated customer facing services.
+Building global full Payment Service Platform (PSP) processing millions of transactions annually and associated customer facing services.
 
 * Led architecture and development of customer-facing payment services used by global merchants.
 * Collaborated with product managers and business stakeholders to define scalable payment platform capabilities.
