@@ -16,11 +16,14 @@ Passionate about solving complex business problems through simple architectures 
 Core strengths include:
 
 * Customer Solution Architecture
-* Cloud Transformation
+* Executive Stakeholder Management
+* Solution Consulting
+* Application Modernization
+* Pre-sales Architecture
 * Enterprise Architecture
 * API & Integration Strategy
 * Kubernetes & Microservices
-* Executive Architecture Workshops
+* Architecture Workshops
 * Digital Modernization
 * Agile Leadership
 
@@ -29,12 +32,7 @@ Core strengths include:
 * Cloud Native Architecture
 * Partner & Customer Engagement
 * Technical Discovery Workshops
-* Executive Stakeholder Management
-* Solution Consulting
-* Application Modernization
-* Pre-sales Architecture
-* Digital Transformation
-* API Strategy
+* API First Strategy
 * Kubernetes
 * Microservices
 * Event Driven Architecture
