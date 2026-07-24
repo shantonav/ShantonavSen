@@ -62,7 +62,7 @@ Core strengths include:
   
 ## Education
 
-Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, Institution: Sikkim Manipal Institute of Technology (SMIT).  
+Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, Institution: Sikkim Manipal Institute of Technology (SMIT), under Sikkim Manipal University.  
 
 
 # Experiences
