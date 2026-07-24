@@ -30,11 +30,13 @@ Core strengths include:
 * Partner & Customer Engagement
 * Technical Discovery Workshops
 * Executive Stakeholder Management
-* Solution Design
+* Solution Consulting
+* Application Modernization
+* Pre-sales Architecture
+* Digital Transformation
 * API Strategy
 * Kubernetes
 * Microservices
-* Digital Transformation
 * Event Driven Architecture
 * Technical Leadership
 * Agile Delivery
