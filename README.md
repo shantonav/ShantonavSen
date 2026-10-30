@@ -1,6 +1,6 @@
 
 
-TECHNOLOGY & ENGINEERING LEADER - PAYMENTS & BANKING - ENTERPRISE ARCHITECTURE
+Technology & Engineering Leader - Payments & Banking - Solution Architect
 
 Voorburg, Netherlands : +31 6 2652 5304 : shantonav.sen@gmail.com : [#in](https://www.linkedin.com/in/shantonav/)
 
