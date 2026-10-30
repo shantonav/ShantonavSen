@@ -1,160 +1,119 @@
 
-0626525304  
-shantonav.sen@gmail.com  
-[#in](https://www.linkedin.com/in/shantonav)  
-[github](https://github.com/shantonav/)  
-Voorburg 
 
-# Profile
+**TECHNOLOGY & ENGINEERING LEADER | PAYMENTS & BANKING | ENTERPRISE ARCHITECTURE**
 
-Enterprise Solution Architect with 20 years of experience designing and delivering cloud-native platforms for banking, payments, retail, telecom and healthcare organizations.
+Voorburg, Netherlands | +31 6 2652 5304 | shantonav.sen@gmail.com  |
+LinkedIn: https://www.linkedin.com/in/shantonav/ | https://shantonav.github.io/ShantonavSen/ 
 
-Experienced in partnering with customers, business stakeholders and engineering teams to translate business strategy into scalable technical solutions. Proven track record leading architecture workshops, defining target-state architectures, modernizing legacy platforms and driving cloud adoption using Google Cloud, Kubernetes and microservices.
+---
 
-Passionate about solving complex business problems through simple architectures while building trusted relationships with customers, partners and delivery teams.
+## PROFESSIONAL PROFILE
 
-Core strengths include:
+Technology and engineering leader with over 20 years of experience in payments, banking, enterprise software and cloud-native modernization.
 
-* Customer Solution Architecture
-* Executive Stakeholder Management
-* Solution Consulting
-* Application Modernization
-* Pre-sales Architecture
-* Enterprise Architecture
-* API & Integration Strategy
-* Kubernetes & Microservices
-* Architecture Workshops
-* Digital Modernization
-* Agile Leadership
+Principal Architect at Ximedes, with nine direct reports and responsibility for performance reviews and technology/design decisions. Led teams of up to 10 engineers and coordinated three vendor teams at Ingenico.
 
-# Skills
+Experience in payment service provider (PSP), leasing, clearing and settlement platforms, including shared team accountability for production operations and resilience.
 
-* Cloud Native Architecture
-* Partner & Customer Engagement
-* Technical Discovery Workshops
-* API First Strategy
-* Kubernetes
-* Microservices
-* Event Driven Architecture
-* Technical Leadership
-* Agile Delivery
-* Payments & Banking
-* Enterprise Integration
+Partner with business stakeholders on technology strategy, delivery, risk and compliance.
 
-# Languages
-- English professional proficiency
-- Dutch - daily speaker (I can talk about grocery prices, weather and football ;) ).
+## CORE CAPABILITIES
 
-## Technologies worked with 
+- Payments, Clearing & Settlement
+- Engineering and People Leadership
+- Technology Strategy & Architecture
+- Production Operations & Resilience
+- Vendor-Team Coordination
+- Incident Reduction & Delivery Improvement
+- Business Continuity & Disaster Recovery
+- GDPR & Technical Risk Controls
+- Cloud-Native Modernization
 
-* Microsoft Azure
-* Cloud Architecture
-* Kubernetes
-* Docker
-* Spring Boot
-* Java
-* Kotlin
-* Jenkins
-* Git
-* REST APIs
-* SQL / NoSQL
-  
-## Education
+---
 
-Bachelor of Technology (Computer Engineering):Passing month/year:- June/2004, Institution: Sikkim Manipal Institute of Technology (SMIT), under Sikkim Manipal University.  
+## PROFESSIONAL EXPERIENCE
 
+### Principal Architect — Ximedes
+**July 2021 – Present**
 
-# Experiences
+- Own technology and design choices for client solutions; lead discovery workshops and align technical roadmaps with business priorities and engineering delivery.
+- Serve as principal for nine direct reports, conducting performance reviews and mentoring architects and engineers.
+- Worked with **Fiserv (2021–2022)** on a merchant self-onboarding solution, applying workflow automation and reusable services to simplify onboarding.
+- Working with **ING Lease (from 2022)** on its next-generation leasing platform within retail banking, designing cloud-native architecture to support digital customer journeys.
+- Work with autonomous engineering teams accountable for operating and maintaining resilient production platforms; contribute to improvements in release speed, delivery consistency, quality control and incident reduction.
+- Contribute to business continuity, disaster recovery, GDPR and risk/compliance assessments, including network and firewall controls and penetration-testing activities.
 
-## Principal Architect at Ximedes: from July 2021
+### Lead Engineer — BillingHouse, The Hague
+**July 2019 – June 2021**
 
-* Lead technical discovery workshops translating business requirements into scalable cloud-native solutions.
-* Designed the target architecture for a cloud-native self-service leasing platform, enabling the business to digitize the customer journey and accelerate future feature delivery through a microservices-based architecture.
-* Designed an enterprise merchant self-onboarding platform that simplified customer onboarding while reducing manual operational effort through workflow automation and reusable services.
-* Improved engineering delivery velocity by introducing reusable architecture patterns and technical guidance, enabling teams to deliver features more consistently.
-* Led executive architecture workshops with banking stakeholders to define a target cloud-native architecture for a next-generation digital bank, aligning technology strategy with long-term business transformation goals.
-* Partnered with product owners and business stakeholders to translate strategic business goals into scalable technical roadmaps.
-* Drive enterprise architecture decisions balancing scalability, maintainability and business value.
-* Guide engineering teams through implementation while ensuring architectural alignment.
-* Mentor architects and engineers across multiple delivery teams.
-* Act as the primary technical advisor for customers during solution design and delivery.
+- Led customer workshops and technical solution design for SaaS billing platforms spanning EV charging, utilities and logistics.
+- Designed Java microservices with PostgreSQL and RabbitMQ, packaged with Docker and deployed on Google Cloud Kubernetes using Helm.
+- Defined reusable architecture patterns and worked with business stakeholders to align platform capabilities with customer needs.
 
-## Lead engineer at BillingHouse , Den Haag : from July 2019  to June 2021
+### Lead Engineer — Ingenico ePayments, Hoofddorp
+**March 2016 – June 2019**
 
-We build billing systems based on open source Jbilling (grails based app) platform and provide the solution as SaaS for
-any domain: EV charging , utility, logistics  tc.  We build Java Apps ( micro-services) with Postgresql and RabbitMQ which are packaged in shippable docker containers and using helm configurations we orchestrate the deployment of these containers in kubernetes on GCP.
+- Led architecture and engineering for a global payment service provider (PSP) platform processing millions of transactions annually; contributed to production operations and resilience.
+- Designed REST APIs and microservices for high-volume payments; led engineering teams of up to 10 and coordinated delivery involving three vendor teams.
+- Introduced CI/CD and delivery practices focused on faster releases, consistent quality and fewer incidents; collaborated with product and business stakeholders.
 
-* Served as technical lead and trusted advisor for enterprise customers adopting SaaS billing platforms.
-* Led customer requirement workshops and solution architecture sessions.
-* Designed cloud-native microservice solutions deployed on Google Cloud Platform using GKE and Kubernetes.
-* Defined reusable architecture patterns reducing delivery effort across projects.
-* Worked closely with business stakeholders to ensure technical solutions aligned with strategic goals.
-  
+---
 
-## LEAD ENGINEER, INGENICO E-PAYMENTS, HOOFDDORP, THE NETHERLANDS — MARCH 2016- June 2019
+## EARLIER PROFESSIONAL EXPERIENCE
 
-Building global full Payment Service Platform (PSP) processing millions of transactions annually and associated customer facing services.
+### Senior Java Engineer — Clearstream Banking, Luxembourg
+**May 2015 – February 2016**
 
-* Led architecture and development of customer-facing payment services used by global merchants.
-* Collaborated with product managers and business stakeholders to define scalable payment platform capabilities.
-* Designed REST APIs and microservices supporting high-volume payment processing.
-* Established CI/CD practices improving deployment frequency and engineering productivity.
-* Led cross-functional engineering teams across distributed locations.
+- Contributed to the consolidation of post-trade settlement services for the TARGET2-Securities implementation; designed settlement services and collaborated with customer architects and business analysts.
+- Participated in technical solution proposals and RFP responses.
 
-## SR JAVA ENGINEER, CLEARSTREAM BANKING, LUXEMBOURG — MAY 2015-FEB 2016
+### Senior Java Engineer — Cognizant Technology Solutions, India
+**2010 – 2016**
 
-The project is about consolidation of post trade settlement services as a result of TARGET2 Securities implementation by ECB.
+- Provided architecture and design consulting across retail, travel, cards and payments; supported customer RFPs, estimation and execution.
+- Improved engineering processes through build and CI configuration, application profiling, automated test coverage, training and mentoring.
 
-* Contributed to enterprise architecture for TARGET2 Securities migration.
-* Participated in customer RFP responses and technical solution proposals.
-* Designed core settlement services supporting large-scale financial transactions.
-* Worked directly with customer architects and business analysts to refine requirements.
+### Senior Java Consultant — Capgemini, India & France
+**2006 – 2010**
 
-##  SR JAVA ENGINEER, COGNIZANT TECH SOLUTIONS, INDIA — 2010-2016
+- Delivered enterprise integration and SOA solutions for healthcare, telecom, utilities and banking clients, including a Dutch bank's mortgage-domain services.
 
-Worked on various enterprise solutions applied to domains like retail travel and card & payments.
+### Java Engineer — Erexmax Technologies, India
+**2004 – 2006**
 
-- Providing solution architecture and design
-- Consulting customer on existing technical landscape, through RFPs.
-- Providing and designing innovative ideas for process improvements
-- Software configuration management, build configuration and continuous integration
-- Application profiling, analysing pain points and providing improvement solutions
-- Integrating automated test coverage tool. 
-- Estimation, planning (WBS) and execution
-- Building competencies and nurturing talent through trainings and mentoring 
-- Spearheading technical capabilities within strategic accounts to serve critical bottlenecks
-- Building knowledge repository for easy induction of new talent
-- Gave a keynote on Hadoop + big data
+- Designed and developed integration services for hotel revenue-management and inventory systems, including B2B service architecture.
 
-## SR JAVA CONSULTANT, CAPGEMINI, INDIA & FRANCE — 2006-2010
+---
 
-- Critical Websphere integration consulting in the healthcare space.
-- Pilot implementation of the SOA roadmap for a French telecom giant.
-- Critical Web service development in B2B space for a French energy and utilities giant.
-- Middle-tier service, external interface and domain design and development for leading Dutch bank in the banking and mortgage domain.
+## SELECTED TECHNOLOGY EXPERTISE
 
-## JAVA ENGINEER, EREXMAX TECHNOLIGES, INDIA — 2004-2006
+**Programming & Frameworks:** Java, Kotlin, Spring Boot, REST APIs
 
-A product based company catering to the dynamic Hotel Revenue Industry and building Business IntelligenceProducts for managing real-time data. 
-Some of the product lines I was involved in 
+**Architecture:** Microservices, Event-Driven Architecture
 
-- RTAllocator - A real time revenue inventory management system, providing common interface to various IDS holdings of the hotel. 
-I designed and developed the critical IDS data push service for the product.
-- RTConnect - A real time inventory update service based on SOA, first SOA based application- a B2B implementation of the RTAllocator. 
-Lead the end-to-end architecture, design and development of the application.
-- Togol - a travel and leisure search engine. I was involved as a technical consulting engineer to tune and review various aspects of 
-the application like performance and design.
+**Cloud & Containers:** Kubernetes, Docker, OpenShift, Google Cloud, Microsoft Azure, AWS
 
+**Data & Messaging:** PostgreSQL, RabbitMQ
 
-# Certifications
+**DevOps & Delivery:** Git, Jenkins, CI/CD
 
-Kubernetes Certified Administrator (CKA) - WIP  
-[How Google does machine learning](https://www.coursera.org/account/accomplishments/verify/FG3P7Z3QALC5) (2019)  
-[Launching into machine learning](https://www.coursera.org/account/accomplishments/verify/A859VUL63JQG) (2019)  
-Certified Scrum Master – 2013 from Scrum alliance: Certificant ID: 295513, re-certified - 2017 from [scrum.org](https://www.scrum.org/user/220776)  
-SUN Certified Java Programmer  
-SUN Certified Web Component Developer 5.0  
-Brain bench – Certifications – Transcript Id # 9584398  
-Completed the A1 level of French language certification from the Alliance Francaise Paris.  
-Completed A0 Dutch from www.abcdutch.com  
-Dutch _'Inburguring'_
+---
+
+## EDUCATION
+
+**Bachelor of Technology, Computer Engineering**  
+Sikkim Manipal Institute of Technology (SMIT), Sikkim Manipal University  
+2004
+
+## CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+
+- Certified Scrum Master (2013; re-certified 2017)
+- Sun Certified Java Programmer
+- Sun Certified Web Component Developer
+- Google Machine Learning Courses (2019)
+- Kubernetes Certified Administrator (in progress)
+
+## LANGUAGES
+
+- **English:** Professional proficiency
+- **Dutch:** Conversational
