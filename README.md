@@ -1,5 +1,4 @@
 
-
 Technology & Engineering Leader - Payments & Banking - Solution Architect
 
 Voorburg, Netherlands : +31 6 2652 5304 : shantonav.sen@gmail.com : [#in](https://www.linkedin.com/in/shantonav/)
@@ -9,11 +8,8 @@ Voorburg, Netherlands : +31 6 2652 5304 : shantonav.sen@gmail.com : [#in](https:
 ## PROFESSIONAL PROFILE
 
 Technology and engineering leader with over 20 years of experience in payments, banking, enterprise software and cloud-native modernization.
-
 Principal Architect at Ximedes, with nine direct reports and responsibility for performance reviews and technology/design decisions. Led teams of up to 10 engineers and coordinated three vendor teams at Ingenico.
-
 Experience in payment service provider (PSP), leasing, clearing and settlement platforms, including shared team accountability for production operations and resilience.
-
 Partner with business stakeholders on technology strategy, delivery, risk and compliance.
 
 ## CORE CAPABILITIES
@@ -84,35 +80,10 @@ Partner with business stakeholders on technology strategy, delivery, risk and co
 
 ---
 
-## SELECTED TECHNOLOGY EXPERTISE
-
-**Programming & Frameworks:** Java, Kotlin, Spring Boot, REST APIs
-
-**Architecture:** Microservices, Event-Driven Architecture
-
-**Cloud & Containers:** Kubernetes, Docker, OpenShift, Google Cloud, Microsoft Azure, AWS
-
-**Data & Messaging:** PostgreSQL, RabbitMQ
-
-**DevOps & Delivery:** Git, Jenkins, CI/CD
-
----
-
-## EDUCATION
-
-**Bachelor of Technology, Computer Engineering**  
-Sikkim Manipal Institute of Technology (SMIT), Sikkim Manipal University  
-2004
-
-## CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
-
-- Certified Scrum Master (2013; re-certified 2017)
-- Sun Certified Java Programmer
-- Sun Certified Web Component Developer
-- Google Machine Learning Courses (2019)
-- Kubernetes Certified Administrator (in progress)
-
-## LANGUAGES
-
-- **English:** Professional proficiency
-- **Dutch:** Conversational
+| **Selected Technology Expertise** | **Education** | **Certifications & Professional Development** | **Languages** |
+|---|---|---|---|
+| **Programming & Frameworks:** Java, Kotlin, Spring Boot, REST APIs | **Bachelor of Technology** in Computer Engineering | GitHub Copilot – Microsoft | **English:** Professional proficiency |
+| **Architecture:** Microservices, Event-Driven Architecture | Sikkim Manipal Institute of Technology (SMIT), Sikkim Manipal University | AI Literacy Certification – Hult Ashridge Executive Education | **Dutch:** Conversational |
+| **Cloud & Containers:** Kubernetes, Docker, OpenShift, Google Cloud, Azure, AWS | **Graduated:** 2004 | Certified Scrum Master | |
+| **Data & Messaging:** PostgreSQL, RabbitMQ | | Google Machine Learning Courses (2019) | |
+| **DevOps & Delivery:** Git, Jenkins, CI/CD | | | |
